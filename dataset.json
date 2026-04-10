@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Greeley in the Mountain West with a population of over 108k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Greeley, Colorado, US",
+  "export_job_id": "c392c9f1-7e58-4b13-a45a-ee3aa354fa7f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 109907,
+  "location_name": "Greeley",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-greeley-colorado-us-sample-109907",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/109907/beamstation_109907_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 9.19,
+  "sample_records": 25,
+  "sample_sha256": "72588b32907e93fd6379b6908c13fd4e04e47367961acfc881d63087334f8f3d",
+  "sample_size_bytes": 117764,
+  "total_records": 272,
+  "updated_at": "2026-03-31T12:49:42.074933+00:00"
+}
