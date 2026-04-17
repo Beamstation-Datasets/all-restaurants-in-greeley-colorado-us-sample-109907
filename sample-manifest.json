@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c392c9f1-7e58-4b13-a45a-ee3aa354fa7f",
+  "export_job_id": "f162e90c-6e80-49e4-a390-aa2485c5a3bb",
   "id_short": 109907,
-  "published_at": "2026-04-10T19:05:26Z",
+  "published_at": "2026-04-17T07:58:26Z",
   "repo_name": "all-restaurants-in-greeley-colorado-us-sample-109907",
   "sample_asset_name": "beamstation_109907_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/109907/beamstation_109907_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "72588b32907e93fd6379b6908c13fd4e04e47367961acfc881d63087334f8f3d",
-  "sample_size_bytes": 117764,
-  "total_records": 272
+  "sample_records": 31,
+  "sample_sha256": "c2fc0baa3df04e97ac1022b2e36c538a576cfde9eacfd84d19b72a91ba68de67",
+  "sample_size_bytes": 127024,
+  "total_records": 317
 }
